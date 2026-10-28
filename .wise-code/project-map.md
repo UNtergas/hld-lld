@@ -14,7 +14,7 @@ System design practice repo. Phase 1: LLD problems in TypeScript, w/ design patt
 - `test/<nn>-<problem>.test.ts`: tests per problem, written by Claude on request (learner decision).
 
 ## Main Flow
-Not designed yet.
+Parking Lot (problem 01) in scoping. Learner draft entities: ParkingLot, Car, Ticket (proposed, not confirmed).
 
 ## Data and Trust Boundaries
 Not applicable yet.
